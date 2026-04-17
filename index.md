@@ -2,9 +2,10 @@
 layout: home
 ---
 
-Ciao, questo è il mio primo sito ospitato su **GitHub Pages**.
+Ciao, sono Ilaria Luzzi studentessa di Scienze della comunicazione presso l'università di Tor Vergata.
+Questo è il mio sito dedicato alla publicazione dei miei articoli.
 
 ### Cosa troverai qui:
-* Articoli tecnici
+* Articoli dedicata alla cronaca
 * Riflessioni personali
 * Progetti futuri
