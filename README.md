@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Benvenuti sul mio blog!
 Ciao, questo è il mio primo sito ospitato su **GitHub Pages**.
 
@@ -8,9 +13,9 @@ Ciao, questo è il mio primo sito ospitato su **GitHub Pages**.
 
 ## I miei articoli
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date_to_string }}
-    </li>
-  {% endfor %}
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a> - {{ post.date | date: "%d/%m/%Y" }}
+  </li>
+{% endfor %}
 </ul>
