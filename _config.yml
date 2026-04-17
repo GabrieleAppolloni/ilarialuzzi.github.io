@@ -1,17 +1,8 @@
-# Informazioni sul sito
-title: Il Mio Blog       # Questo apparirà in alto a sinistra
-author: Ilaria Luzzi               # Questo apparirà nel footer
-description: >-                    # Una breve descrizione (opzionale)
-  Benvenuti nel mio spazio dove pubblico articoli.
+title: "Il Mio Blog"
+author: "Ilaria Luzzi"
+description: "Benvenuti nel mio spazio dove pubblico articoli."
 
-# Impostazioni del tema
 theme: minima
 
-# Se vuoi pulire il footer dai social, lascia queste vuote o eliminale
-twitter_username: 
-instragram_username:
-email: 
-
-# Impostazioni URL
 url: "https://ilarialuzzi.github.io"
 baseurl: ""
