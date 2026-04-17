@@ -2,7 +2,7 @@ title: "Il Mio Blog"
 author: "Ilaria Luzzi"
 description: "Benvenuti nel mio spazio dove pubblico articoli."
 
-theme: minima
+remote_theme: "jekyll/minima"
 
 url: "https://ilarialuzzi.github.io"
 baseurl: ""
