@@ -9,3 +9,10 @@ Questo è il mio sito dedicato alla publicazione dei miei articoli.
 * Articoli dedicata alla cronaca
 * Riflessioni personali
 * Progetti futuri
+
+
+<style>
+  .site-footer {
+    display: none !important;
+  }
+</style>
