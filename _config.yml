@@ -1,3 +1,6 @@
 title: "Il Mio Blog"
 author: "Ilaria Luzzi"
 theme: minima
+
+baseurl: "/ilarialuzzi.github.io"
+url: "https://gabrieleappolloni.github.io"
